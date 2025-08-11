@@ -4,18 +4,28 @@
 [Click here to view the dashboard](https://app.powerbi.com/links/YOUR-DASHBOARD-LINK)
 
 Project Overview :
+
 This dashboard helps banks analyze loan borrower profiles, assess loan performance, and identify key risk factors. It provides actionable insights into loan approvals, repayments, default risks, and customer financial behavior to optimize decision-making.
 
 Steps followed :
 Data Collection & Import
+
 Imported loan data into MS SQL Server for cleaning and analysis. Data Cleaning & Preparation (SQL)
+
 Removed duplicates, handled null values, and standardized loan status.
+
 Formatted dates and classified loans into Good & Bad categories. Data Analysis & Querying (SQL)
+
 Extracted key metrics: Total Loans, Funded Amount, Interest Rate, DTI.
+
 Analyzed monthly, quarterly, and yearly trends. Data Modeling & Transformation (Power BI)
+
 Connected Power BI to SQL Server and created relationships.
+
 Used Power Query for data transformation. Dashboard Development (Power BI & DAX)
+
 Built interactive visualizations for loan trends, borrower risk, and regional insights.
+
 Used DAX formulas for KPIs like MoM & MTD changes.
 
 
