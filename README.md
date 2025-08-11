@@ -3,8 +3,7 @@
 📊 **Dashboard Link**:  
 [Click here to view the dashboard](https://app.powerbi.com/links/YOUR-DASHBOARD-LINK)
 
----
-
+Project Overview
 This dashboard helps banks analyze loan borrower profiles, assess loan performance, and identify key risk factors. It provides actionable insights into loan approvals, repayments, default risks, and customer financial behavior to optimize decision-making.
 
 Steps followed
@@ -19,6 +18,8 @@ Connected Power BI to SQL Server and created relationships.
 Used Power Query for data transformation. Dashboard Development (Power BI & DAX)
 Built interactive visualizations for loan trends, borrower risk, and regional insights.
 Used DAX formulas for KPIs like MoM & MTD changes.
+
+
 Report Snapshot (Power BI DESKTOP)
 
 <img width="1047" height="590" alt="Report-1" src="https://github.com/user-attachments/assets/89a82438-e1d0-4b5f-8519-08539ee89e8e" />
