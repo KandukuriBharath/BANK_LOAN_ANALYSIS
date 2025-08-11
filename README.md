@@ -1,4 +1,3 @@
-![414932711-fbbe9a07-94a3-4004-899c-65796f1e486a](https://github.com/user-attachments/assets/debf9e7d-5842-4b0a-b691-9e7cd41a156b)
 # Bank Loan Analysis Dashboard (Power BI & SQL)
 
 📊 **Dashboard Link**:  
@@ -22,7 +21,13 @@ Built interactive visualizations for loan trends, borrower risk, and regional in
 Used DAX formulas for KPIs like MoM & MTD changes.
 Report Snapshot (Power BI DESKTOP)
 
-<img width="1082" height="802" alt="image" src="https://github.com/user-attachments/assets/71b74933-6e49-4b68-953e-7506fb7dab36" />
+<img width="1047" height="590" alt="Report-1" src="https://github.com/user-attachments/assets/89a82438-e1d0-4b5f-8519-08539ee89e8e" />
+
+
+<img width="1038" height="593" alt="Report-2" src="https://github.com/user-attachments/assets/6d7a91cb-00c1-47c2-98e6-75776c43ae91" />
+
+
+<img width="1041" height="583" alt="Report-3" src="https://github.com/user-attachments/assets/df59dc5c-43e2-4759-9542-e904466a15e0" />
 
 
 
